@@ -5,12 +5,19 @@ R - Read Instructor Record
 U - Update Instructor Record  
 D - Delete Instructor Record
 
+**SQL Script**  
+To help you get started we have provided the SQL file `instructor-tracker.sql` which will create the database and table to work with.  
+Please execute this script or run the commands manually to create the database and table  before starting the project.  
+
+**SQL Connection**   
+Please change the content of `context-configuration.xml` to setup your username and password for MySQL-connection.  
+
 **For Eclipse Users:**  
-You can download the zip file `InstructorManagement-Eclipse.zip` and unzip it.  
+(Dynamic Web Project)You can download the zip file `InstructorManagement-Eclipse.zip` and unzip it.  
 You can simply import the unzipped file into your Eclipse IDE and play around the source code.  
 
 **For IntelliJ IDEA Community Edition Users:**  
-You can download the zip file `InstructorManagement-IntelliJ.zip` and unzip it.  
+(Maven Project)You can download the zip file `InstructorManagement-IntelliJ.zip` and unzip it.  
 You can simply import the unzipped file into your IntelliJ and play around the source code.  
 To get a demo of how to run a Spring-MVC app in _IntelliJ-IDEA Community Edition_ please checkout my post https://medium.com/panchalprogrammingacademy where I explained everything step-by-step.
 
